@@ -201,17 +201,20 @@ HLT
 
 ### FIGURE-01: ADDITION OUTPUT
 
-     <img width="325" height="357" alt="image" src="https://github.com/user-attachments/assets/dd343f7b-b39d-4566-8d23-d3bd91c2e0dc" />
+   <img width="325" height="357" alt="image" src="https://github.com/user-attachments/assets/e5e409e3-f838-4461-82a8-528c2d756e39" />
+
 
 
 ### FIGURE-02: SUBTRACTION OUTPUT
 
-     <img width="333" height="350" alt="image" src="https://github.com/user-attachments/assets/ca5f7796-8839-4771-9969-5b27b3d785b8" />
+<img width="333" height="350" alt="image" src="https://github.com/user-attachments/assets/b1fef592-6dee-4b2b-9a8c-43368220719e" />
+
 
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
-    <img width="333" height="355" alt="image" src="https://github.com/user-attachments/assets/546fd52c-9875-4524-8a69-233d9b4e44c4" />
+<img width="333" height="355" alt="image" src="https://github.com/user-attachments/assets/5e84c94d-52d8-400b-86e9-72bd48ac7340" />
+
 
 
 
