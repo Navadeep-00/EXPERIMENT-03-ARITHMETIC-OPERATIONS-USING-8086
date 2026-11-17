@@ -211,7 +211,8 @@ HLT
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
-    <img width="333" height="355" alt="image" src="https://github.com/user-attachments/assets/d39415eb-4ae1-4714-ab6a-20d3c6bdfb66" />
+    <img width="333" height="355" alt="image" src="https://github.com/user-attachments/assets/546fd52c-9875-4524-8a69-233d9b4e44c4" />
+
 
 
 ### FIGURE-04: DIVISION OUTPUT
